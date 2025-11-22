@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg1"
-   width="968.14801"
-   height="1021.4188"
-   viewBox="0 0 968.14801 1021.4189"
+   width="1024"
+   height="1023.9999"
+   viewBox="0 0 1024 1024"
    xml:space="preserve"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
@@ -60,10 +60,10 @@
          d="M 0,1024 H 3072 V 0 H 0 Z"
          transform="translate(-342.61971,-296.98441)"
          id="path64" /></clipPath></defs><g
-     id="layer-MC0"
-     transform="translate(1769.9707,581.10769)"><g
+     id="layer1"
+     transform="translate(2685.8169,1302.1152)"><g
        id="g155"
-       transform="translate(-1836.854,-655.35998)"
+       transform="matrix(0.84494255,0,0,0.84494255,-2639.3442,-1284.3743)"
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"><path
          id="path147"
          d="m 0,0 c 32.754,-157.595 -38.074,-302.127 -145.212,-324.395 -107.139,-22.268 -229.462,83.182 -262.216,240.777 -32.754,157.596 36.463,307.659 143.602,329.926 C -156.688,268.576 -32.754,157.595 0,0"
